@@ -81,15 +81,6 @@ This project was created to bridge the gap between complex database schemas and 
 - **Step 5: Render** ➔ The frontend renders the React-Markdown explanation, the interactive Recharts component, and the downloadable data table.
 
 ---
-
-## System Architecture
-
-[ARCHITECTURE_DIAGRAM_PLACEHOLDER]
-
-## Demo Video
-
-[DEMO_VIDEO_LINK]
-
 ---
 
 ## Technology Stack
@@ -196,8 +187,8 @@ project-root/
 
 ---
 
-## Contributors
-- **Retail Analyst Open Source Team**
+## Author 
+- **Muhammad Anas**
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
